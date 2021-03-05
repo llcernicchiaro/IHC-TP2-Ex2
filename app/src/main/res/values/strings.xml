@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IHC-TP2-Ex2</string>
+    <string name="placeholder">Enter a Message</string>
+    <string name="send">SEND</string>
+</resources>
